@@ -87,7 +87,8 @@ Explorer (cmd + shift + E)
 
 
 
-
+## annas-archive
+Apparently the only real sites are .gl .pk .gd
 
 
 

@@ -5,12 +5,8 @@
 Policarpa ({Colombia}, policarpos, Pola)
 
 
+
 ## Inglés
-
-:set nospell
-
-buffer
-
 
 
 
@@ -24,9 +20,12 @@ More options (right click + opt)
 
 Ampliar (ctrl + cmd + F)
 
+emojist and keyboard (ctrl + cmd + space)
+
 ### Shortcuts: 
 
 Play spotify 
+
 
 
 ## Cmux:
@@ -40,12 +39,23 @@ Play spotify
 Shortcuts (~/.config/cmux/cmux.json)
 
 
-
 ## Vim
+
+:set nospell
 
 Plugins (
 
-u (undo)
+Undo (u)
+
+redo (ctrl + r)
+
+### SUggestions
+
+Quit suggestions (ctrl + e)
+
+Accept suggestion (ctrl + y)
+
+Move in suggestions (ctrl + n, ctrl + p)
 
 autocmd FileType * setlocal _____   (comman when a file of type * is detected, locally in the same file)
 

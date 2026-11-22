@@ -1,8 +1,11 @@
-#Glosario
+# Glosario
 
-Sourse Code / Raw 
+## Español
 
-Render View / Pre View
+Policarpa ({Colombia}, policarpos, Pola)
+
+
+## Inglés
 
 :set nospell
 
@@ -11,43 +14,66 @@ buffer
 
 
 
-##Mac:
+## Mac:
 
 Spaces (ctrl + <-, ctrl + ->) 
 
-Raycast (like spotlight)
-
 Keyboard Remappers (like Karabiner)
 
-###Shortcuts: 
-play spotify 
+More options (right click + opt)
+
+Ampliar (ctrl + cmd + F)
+
+### Shortcuts: 
+
+Play spotify 
 
 
-##Cmux:
+## Cmux:
 
-**Window** -> **Workspace** (cmd + number) -> **Pane** (tabs) (cmd + number)-> **Surface** (cmd + { or ctrl + number)-> **Panel** 
+**Window** (cmd + shift + N)
+-> **Workspace** (cmd + number) 
+-> **Pane** (tabs) (cmd + opt + ->)
+-> **Surfiace** (cmd + {, or ctrl + number)
+-> **Panel** 
 
-shortcuts (~/.config/cmux/cmux.json)
+Shortcuts (~/.config/cmux/cmux.json)
 
 
-##Vim 
-Plugins (in)
+
+## Vim
+
+Plugins (
 
 u (undo)
 
-autocmd FileType * setlocal _____ (comman when a file of type * is detected, locally in the same file 
-)
+autocmd FileType * setlocal _____   (comman when a file of type * is detected, locally in the same file)
 
 
-##Glow 
+
+## Glow 
 
 
-##Markdown (.md):
 
-##VSCode
+## Markdown (.md):
+
+Sourse Code / Raw 
+
+Render View / Pre View
+
+
+
+## VSCode
 
 Explorer (cmd + shift + E)
 
+
+
+## Git
+
+
+
+## Raycas
 
 
 

@@ -43,11 +43,11 @@ Shortcuts (~/.config/cmux/cmux.json)
 
 :set nospell
 
-Plugins (
-
 Undo (u)
 
 redo (ctrl + r)
+
+Plugins (~/.vimrc)
 
 ### SUggestions
 
@@ -88,7 +88,16 @@ Explorer (cmd + shift + E)
 
 
 ## annas-archive
+
 Apparently the only real sites are .gl .pk .gd
+
+## Claude
+
+~/.claude/settings.json (I accessed to change the auto mode to default mode)
+
+## ML
+
+OCR (Opticla character recognition) 
 
 
 

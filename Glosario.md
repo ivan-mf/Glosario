@@ -97,7 +97,25 @@ Apparently the only real sites are .gl .pk .gd
 
 ## ML
 
-OCR (Opticla character recognition) 
+OCR (Opticl character recognition) 
 
+
+
+## Cyber UNAM
+
+Full-Stack 
+
+Dashboard 
+
+Diseño gráfico, experiencia de usuario, administracio´n de proyectos, diseño de producto, technicall producto owner 
+
+## Interpreters
+
+# Bash 
+(El scripting-lenguage de la mayoría de los provedores de linux)
+
+
+# Zsh 
+(nuevo interprete por defecto de IOs, casi igual a bash)
 
 

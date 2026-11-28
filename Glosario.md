@@ -6,8 +6,10 @@ Policarpa ({Colombia}, policarpos, Pola)
 
 
 
+
 ## Inglés
 
+Errands
 
 
 ## Mac:
@@ -22,9 +24,17 @@ Ampliar (ctrl + cmd + F)
 
 emojist and keyboard (ctrl + cmd + space)
 
-### Shortcuts: 
+Borrar (cmd + delete)
+
+Rename (enter)
+
+### Shortcuts (app): 
 
 Play spotify 
+
+Cerrar pestaña (cmd + w)
+
+Cerrar ventana (cmd + shift + w)
 
 
 
@@ -71,7 +81,9 @@ Sourse Code / Raw
 
 Render View / Pre View
 
+Search files 
 
+Quicklinks 
 
 ## VSCode
 
@@ -83,11 +95,21 @@ Explorer (cmd + shift + E)
 
 
 
-## Raycas
+## Raycast
+
+Back (esc)
+
+### More used extentions 
+
+reminders
+
+schedual 
 
 
 
-## annas-archive
+
+
+## Annas-archive
 
 Apparently the only real sites are .gl .pk .gd
 
